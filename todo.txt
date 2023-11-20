@@ -1,0 +1,33 @@
+Todo
+    -Done Create virtual env
+    -Done Install and setup
+    -Done Init database, super user, test run
+    -Done Create core app for base pages
+    -Done Create app for userprofile
+    -Done Create app for products
+        -Done Add category model
+    -Done List out newest products on the front page
+    -Done Product detail view
+    -Done Category view
+    -DONE Show vendor on product detail page
+    -DONE Add images to the products
+    -DONE Vendor detail page
+    -DONE Make it possible to sign up, log in and log out
+    -DONE Create my account page
+    -DONE Simple search
+    -DONE Admin page for the vendors
+    -DONE View cart
+    -DONE Add product to the cart
+    -DONE Make it possible to remove product from cart
+    -DONE Make it possible to increment/decrement product in the cart
+    -DONE Add thmbnails to the products
+    -DONE Fix the design on the cart page
+    -DONE Create a Checkout page
+    -DONE Add Cart button in menu
+    -DONE Checkout functionality
+    -DONE Vendors must be able to see thier orders
+    -DONE only authenticated users can proceed to the checkout
+    -Vendors must be able to see what they have earned
+    -Separete shoppers from vendors
+    -Implement payment gateway
+    -Deploy project
